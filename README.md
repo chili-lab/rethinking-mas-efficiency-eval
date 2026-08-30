@@ -1,1 +1,1 @@
-# rethinking-mas-efficiency-eval
+# Rethinking the Evaluation of Efficiency Methods for Multi-Agent Systems
