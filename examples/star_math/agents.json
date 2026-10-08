@@ -1,0 +1,36 @@
+[
+  {
+    "name": "advisor",
+    "agent_type": "math_solver",
+    "prompt_set": "math",
+    "role": "Math Advisor"
+  },
+  {
+    "name": "solver",
+    "agent_type": "math_solver",
+    "prompt_set": "math",
+    "role": "Math Solver"
+  },
+  {
+    "name": "analyst",
+    "agent_type": "math_solver",
+    "prompt_set": "math",
+    "role": "Mathematical Analyst"
+  },
+  {
+    "name": "programmer",
+    "agent_type": "math_solver",
+    "prompt_set": "math",
+    "role": "Programming Expert"
+  },
+  {
+    "name": "inspector",
+    "agent_type": "math_solver",
+    "prompt_set": "math",
+    "role": "Inspector"
+  },
+  {
+    "name": "decision",
+    "agent_type": "final_refer"
+  }
+]
