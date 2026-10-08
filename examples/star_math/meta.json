@@ -1,0 +1,23 @@
+{
+  "name": "qwm4b_n6r2_star__advisor_solver_analyst_prog_insp_dec",
+  "description": "gsm8k | topology=star | n=6 | r=2 | tool=none | model=Qwen/Qwen3-4B-Instruct-2507",
+  "task": "gsm8k",
+  "topology_shape": "star",
+  "num_agents": 6,
+  "num_rounds": 2,
+  "tool_level": "none",
+  "model_short": "qwm4b",
+  "tags": [
+    "gsm8k",
+    "star",
+    "n6",
+    "r2",
+    "tool_none",
+    "qwm4b"
+  ],
+  "default_llm": {
+    "model": "Qwen/Qwen3-4B-Instruct-2507",
+    "base_url": "http://127.0.0.1:8000/v1",
+    "api_key": "EMPTY"
+  }
+}
